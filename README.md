@@ -1,4 +1,4 @@
-# 📊 Meme Generator Simple API 2
+# 📊 Meme Generator Simple API 
 
 ### Goal: Display data returned from an api
 
