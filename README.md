@@ -1,4 +1,4 @@
-# 📊 Meme Generator Simple API
+#  Meme Generator Simple API
 
 **Project Overview**
 This is an interactive meme generator application that fetches and displays meme templates from an external API. Users can browse through a collection of popular meme images, demonstrating fundamental API integration and data rendering. A straightforward project showcasing how to retrieve and present data from a single API source with a clean, user-friendly interface.
